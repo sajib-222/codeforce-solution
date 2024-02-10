@@ -14,8 +14,6 @@ int main(){
         cin>>s;
         st[i]=s;       
     }
-
-
 //for output
     for (int i = 0; i <d; i++)
     {
